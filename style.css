@@ -18,7 +18,7 @@ body {
   background-image: url("hba2.webp");
   background-size: 500px;
   background-position: center center;
-  padding: 20px 100px;
+  padding: 50px 250px;
 /*  min-width: 800px; */
   
   transform: rotateZ(-5deg);
@@ -36,10 +36,11 @@ body {
 }
 
 .paper.image {
-  padding: 40px;
+  padding: 70px;
 }
 .paper.image p {
-  font-size: 30px;
+  
+  font-size: 50px;
 }
 
 img {
@@ -64,9 +65,9 @@ img {
 
 p {
   font-family: 'Zeyada';
-  font-size: 50px;
+  font-size: 60px;
   color: rgb(0,0,100);
-  opacity: 0.75;
+  opacity: 0.80;
   user-select: none;
   
   // filter: drop-shadow(2px 1.5px 1px rgba(0,0,105,0.9));
